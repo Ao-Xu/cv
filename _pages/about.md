@@ -15,8 +15,9 @@ Education
 education.
 
 # Publications
-1. **Xu A**, Wu T. Generally-Occurring Model Change for Robust Counterfactual Explanations[C]//International Conference on Artificial Neural Networks. Cham: Springer Nature Switzerland, 2024: 215-229. (CCF-C)
-2. Zhang Y, **Xu A**, Li Z, et al.  Enhancing Counterfactual Image Generation Using Mahalanobis Distance with Distribution Preferences in Feature Space[C]//International Conference on Artificial Neural Networks. Cham: Springer Nature Switzerland, 2024: 184-198. (CCF-C)
+1. **Xu A**, Wu T. Generally-Occurring Model Change for Robust Counterfactual Explanations[C]//International Conference on Artificial Neural Networks. Cham: Springer Nature Switzerland, 2024: 215-229. (EI, CCF-C)
+2. **Xu A**, Li Z, Zhang Y, et al. Generating Image Counterfactuals in Deep Learning Models Without the Aid of Generative Models[J]. IEEE Signal Processing Letters, 2025. (SCI)
+3. Zhang Y, **Xu A**, Li Z, et al.  Enhancing Counterfactual Image Generation Using Mahalanobis Distance with Distribution Preferences in Feature Space[C]//International Conference on Artificial Neural Networks. Cham: Springer Nature Switzerland, 2024: 184-198. (EI, CCF-C)
 
 # Preprints
 1. **Xu A**, Wu T. Weak Robust Compatibility Between Learning Algorithms and Counterfactual Explanation Generation Algorithms[J]. arXiv preprint arXiv:2405.20664, 2024.
