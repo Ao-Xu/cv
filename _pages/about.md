@@ -15,7 +15,7 @@ Education
 education.
 
 # Publications
-1. **Xu A**, Li Z, Wu T, et al. Enhancing the Robustness of Counterfactual Explanations via Modular Robust Compatibility[J]. Expert Systems with Applications, 2025: 130746.
+1. **Xu A**, Li Z, Wu T, et al. Enhancing the Robustness of Counterfactual Explanations via Modular Robust Compatibility[J]. Expert Systems with Applications, 2025: 130746. (SCI)
 2. **Xu A**, Wu T. Generally-Occurring Model Change for Robust Counterfactual Explanations[C]//International Conference on Artificial Neural Networks. Cham: Springer Nature Switzerland, 2024: 215-229. (EI, CCF-C)
 3. **Xu A**, Li Z, Zhang Y, et al. Generating Image Counterfactuals in Deep Learning Models Without the Aid of Generative Models[J]. IEEE Signal Processing Letters, 2025. (SCI, CCF-C)
 4. Li Z, Du X, **Xu A**, et al. Explaining tree ensembles through single decision trees[J]. Information Fusion, 2025: 103244. (SCI, CAAI-A)
