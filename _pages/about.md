@@ -22,7 +22,7 @@ education.
 5. Li Z, Du X, **Xu A**, et al. Explaining tree ensembles through single decision trees[J]. Information Fusion, 2025: 103244. (SCI, CAAI-A)
 6. Zhang Y, **Xu A**, Li Z, et al.  Enhancing Counterfactual Image Generation Using Mahalanobis Distance with Distribution Preferences in Feature Space[C]//International Conference on Artificial Neural Networks. Cham: Springer Nature Switzerland, 2024: 184-198. (EI, CCF-C)
 7. Li Y, Guo Z, **Xu A**, et al. Constraint guided velocity field design for riemannian surface trajectory planning[J]. Computer Aided Geometric Design, 2026: 102618. (SCI, CCF-B)
-8. **Yujie Li$^\ast$, Xu A$^{\dagger,\ast}$**, Ziyou Guo, Wu T. FIVER: Adaptive Fusion of Formal and Informal Verification for Mathematical Reasoning in LLMs. EMNLP Finding 2026. (CCF-B, THCPL-A)
+8. **Yujie Li, Xu A**, Ziyou Guo, Wu T. FIVER: Adaptive Fusion of Formal and Informal Verification for Mathematical Reasoning in LLMs. EMNLP Finding 2026. (CCF-B, THCPL-A)
 
 # Preprints
 1. **Xu A**, Wu T. Weak Robust Compatibility Between Learning Algorithms and Counterfactual Explanation Generation Algorithms[J]. arXiv preprint arXiv:2405.20664, 2024.
